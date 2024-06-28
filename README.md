@@ -30,7 +30,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rizwan-dream-web&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
- 
+[![](https://visitcount.itsvg.in/api?id=CodeWithHarry&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  <!--thank you so much-->
